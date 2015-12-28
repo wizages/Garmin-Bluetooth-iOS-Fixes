@@ -1,9 +1,8 @@
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = GarminConnectMusicFix
-GarminConnectMusicFix_FILES = Tweak.xm
-GarminConnectMusicFix_LDFLAGS += -Wl,-segalign,4000
-
+TWEAK_NAME = GarminConnectFixes
+GarminConnectFixes_FILES = Tweak.xm
+GarminConnectFixes_PRIVATE_FRAMEWORKS =AudioToolbox BulletinBoard
 include $(THEOS_MAKE_PATH)/tweak.mk
 
 after-install::
