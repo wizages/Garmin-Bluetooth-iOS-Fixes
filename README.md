@@ -1,4 +1,4 @@
-#Garmin Bluetooth Watches Fixes
+#Garmin Bluetooth iOS Fixes
 
 ##Part one: Fixes to Garmin Connect not being available
 - The first step is to launch the Garmin Connect app everytime you respring or reboot your device.
