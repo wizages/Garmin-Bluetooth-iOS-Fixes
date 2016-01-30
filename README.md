@@ -7,5 +7,6 @@
 - Lastly the tweak will create a push notification to your phone only letting you know your watch is ready to be used.
 
 ##Part two: Garmin Connect App Modifications
-- Music controls on your watch will not universally control any source of music including Spotify, Pandora and Youtube.
+- Music controls on your watch will now universally control any source of music including Spotify, Pandora and Youtube.
+- Music controls now include the fancy volume buttons that Android users already have.
 - More to come as I see fit.
