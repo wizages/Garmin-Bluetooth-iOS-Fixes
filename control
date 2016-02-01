@@ -1,7 +1,7 @@
 Package: com.wizages.GConnectF
 Name: Garmin Connect Fixes
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
-Version: 0.2.0
+Version: 0.2.2
 Architecture: iphoneos-arm
 Description: This tweak fixes your watch after respring and auto launches the garmin connect app after respring. It also enables universal music controls on your garmin watch.
 Maintainer: wizages <wizagesmax@gmail.com>

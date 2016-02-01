@@ -3,6 +3,9 @@
 #import <Springboard/SBBulletinBannerController.h>
 #import <AudioToolbox/AudioToolbox.h>
 #import <rocketbootstrap/rocketbootstrap.h>
+#include <time.h>
+#include <errno.h>
+#include <sys/sysctl.h>
 #define lowsound @"/System/Library/Audio/UISounds/low_power.caf"
 
 @interface BBSound
